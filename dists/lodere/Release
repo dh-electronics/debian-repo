@@ -1,0 +1,28 @@
+Origin: Local DH Debian repo
+Label: Local DH Debian repo
+Codename: lodere
+Date: Wed, 30 Sep 2020 14:00:46 UTC
+Architectures: armel armhf
+Components: main
+Description: This is local DH Debian repo for DHSOM file systems
+MD5Sum:
+ f747da9f68c9951c5e705a4c939a338a 8075 main/binary-armel/Packages
+ bab6fe36c0d3f130c3a07bd01d39663d 2204 main/binary-armel/Packages.gz
+ f976fd5bf47e52c74cc787ad5e43100b 158 main/binary-armel/Release
+ c2d6130ca500354dd1824ef1e1536826 15122 main/binary-armhf/Packages
+ c129cf3cd428600d1c7060ffe028fe71 4484 main/binary-armhf/Packages.gz
+ a098d24733812c480f9f27d04359a499 158 main/binary-armhf/Release
+SHA1:
+ bee7e84111a1b21d9b94652059479a3e132ec46d 8075 main/binary-armel/Packages
+ 9c96e2247659cc473d6115da01cea2b15aa149eb 2204 main/binary-armel/Packages.gz
+ 3a149addc72e8fc4480f2ec9dfc6d1735a377270 158 main/binary-armel/Release
+ 0ba62d2b4f3c2e01bf6a9b27664a227a99aa670b 15122 main/binary-armhf/Packages
+ 8ed310a4ea0d1e0ad1a6d045f92d5eb5990091f3 4484 main/binary-armhf/Packages.gz
+ 3c51ee4dfc700dc2f07b4948967ae7afd8593463 158 main/binary-armhf/Release
+SHA256:
+ f8c947c77c2df2181e2790ce795e59a22e086577ddb03e59dd1f9893919b6151 8075 main/binary-armel/Packages
+ 66117e9c6fdaa0b7f592da6f91f83ac8b5fbc97cc0c740d58ad7be1fc031b8ae 2204 main/binary-armel/Packages.gz
+ 5fde77a4b7085c011b1bbcb4be09dfcd6782346d30ad79ed403b70ebfe64c25a 158 main/binary-armel/Release
+ 110462eddde432029f281affb2dba66c6b9095bb01d1c3763a14f62773102c7a 15122 main/binary-armhf/Packages
+ 88aac7cfcf289d372fe66e8cae2fe9e258ccc7a1e10cc502483ba8fe595cab34 4484 main/binary-armhf/Packages.gz
+ ba2bf3942fd51bd71c6b70012b0d758b0563671e6872e406a62bc5579d36ed81 158 main/binary-armhf/Release

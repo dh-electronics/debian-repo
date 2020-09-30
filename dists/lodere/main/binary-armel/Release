@@ -1,0 +1,5 @@
+Component: main
+Origin: Local DH Debian repo
+Label: Local DH Debian repo
+Architecture: armel
+Description: This is local DH Debian repo for DHSOM file systems
